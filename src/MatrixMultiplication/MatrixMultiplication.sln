@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MatrixMultiplication", "MatrixMultiplication\MatrixMultiplication.vcxproj", "{512F361F-EADE-4EC5-8DF1-8783A7E6C1BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{512F361F-EADE-4EC5-8DF1-8783A7E6C1BF}.Debug|x64.ActiveCfg = Debug|x64
+		{512F361F-EADE-4EC5-8DF1-8783A7E6C1BF}.Debug|x64.Build.0 = Debug|x64
+		{512F361F-EADE-4EC5-8DF1-8783A7E6C1BF}.Debug|x86.ActiveCfg = Debug|Win32
+		{512F361F-EADE-4EC5-8DF1-8783A7E6C1BF}.Debug|x86.Build.0 = Debug|Win32
+		{512F361F-EADE-4EC5-8DF1-8783A7E6C1BF}.Release|x64.ActiveCfg = Release|x64
+		{512F361F-EADE-4EC5-8DF1-8783A7E6C1BF}.Release|x64.Build.0 = Release|x64
+		{512F361F-EADE-4EC5-8DF1-8783A7E6C1BF}.Release|x86.ActiveCfg = Release|Win32
+		{512F361F-EADE-4EC5-8DF1-8783A7E6C1BF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5A06D12-D743-4AB3-A28C-EA9B77F310CC}
+	EndGlobalSection
+EndGlobal
